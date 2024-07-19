@@ -8,7 +8,7 @@ The game is not garunteed to work when you open it because it is very WIP.
 # RECORD ALL GAMEPLAY EVERY TIME YOU TEST
 idc how as long as I can see the screen
 ## AND SEND ME SCREENSHOTS OF THE CONSOLE IF THE APP FAILS
-without this your testing will basically be useless so *FUCKING DO IT*
+without this your testing will basically be useless so *DO IT*
 
 # If you're an idiot read this:
 
